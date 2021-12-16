@@ -1,0 +1,31 @@
+/**************************TAG-SELECTORS*********************************/
+body{
+  background-color: whitesmoke;
+}
+h1{
+  color: #008891;
+}
+h3{
+  color: #008891;
+}
+h2{
+  color: #008891;
+}
+h4{
+  color: #008891;
+}
+p{
+  color: #0f3057;
+}
+img:hover{
+  background-color: gold;
+}
+hr{
+      background-color: transparent;
+      border-style: none;
+      border-top-style: dotted;
+      width: 10%;
+      border-color: #cfdac8;
+      size: 3 noshade;
+      border-width: 10px;
+}
